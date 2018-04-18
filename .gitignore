@@ -1,0 +1,10 @@
+src/deps
+build
+heron.log
+.sconsign.dblite
+*.o
+*.o
+.sconsign.dblite
+heron.log
+dist
+rstextras.egg-info
